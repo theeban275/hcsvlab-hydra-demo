@@ -36,3 +36,11 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'blacklight'
+gem 'hydra-head', '6.0.0.pre8'
+gem 'jettywrapper'
+
+gem "devise"
+gem "devise-guests", "~> 0.3"
+gem "bootstrap-sass"
